@@ -25,6 +25,7 @@ Endurance determines how far the player may move at a time. Passing through a ti
 Charisma determines how likely it is that you can talk your way out of trouble with each point giving you an additional 5% chance to talk your way out of a fight. At level 10, you gain a 25% chance to pacify an animal in combat.
 
 ##### INTELLIGENCE
+Intelligence determines what weapons and spells you can use during a fight and also what weapons you can equip
 ##### AGILITY
 
 ##### LUCK
